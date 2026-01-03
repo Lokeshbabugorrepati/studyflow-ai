@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📘 StudyFlow AI
 
 StudyFlow AI is an AI-powered study planner and learning assistant built for students to plan, learn, revise, and track their academic progress effectively.
